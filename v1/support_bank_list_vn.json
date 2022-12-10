@@ -1,0 +1,202 @@
+[
+	{
+		"bank_id": "abbank",
+		"bank_name": "ABBank",
+		"exchange_url": "https://webgia.com/ty-gia/abbank/"
+	},
+	{
+		"bank_id": "ACB",
+		"bank_name": "ACB",
+		"exchange_url": "https://webgia.com/ty-gia/acb/"
+	},
+	{
+		"bank_id": "agribank",
+		"bank_name": "Agribank",
+		"exchange_url": "https://webgia.com/ty-gia/agribank/"
+	},
+	{
+		"bank_id": "baoviet",
+		"bank_name": "Bảo Việt",
+		"exchange_url": "https://webgia.com/ty-gia/baovietbank/"
+	},
+	{
+		"bank_id": "bidv",
+		"bank_name": "BIDV",
+		"exchange_url": "https://webgia.com/ty-gia/bidv/"
+	},
+	{
+		"bank_id": "cbbank",
+		"bank_name": "CBBank",
+		"exchange_url": "https://webgia.com/ty-gia/cbbank/"
+	},
+	{
+		"bank_id": "donga",
+		"bank_name": "Đông Á",
+		"exchange_url": "https://webgia.com/ty-gia/dongabank/"
+	},
+	{
+		"bank_id": "eximbank",
+		"bank_name": "Eximbank",
+		"exchange_url": "https://webgia.com/ty-gia/eximbank/"
+	},
+	{
+		"bank_id": "gpbank",
+		"bank_name": "GPBank",
+		"exchange_url": "https://webgia.com/ty-gia/gpbank/"
+	},
+	{
+		"bank_id": "hdbank",
+		"bank_name": "HDBank",
+		"exchange_url": "https://webgia.com/ty-gia/hdbank/"
+	},
+	{
+		"bank_id": "hongleongbank",
+		"bank_name": "Hong Leong Bank",
+		"exchange_url": "https://webgia.com/ty-gia/hlbank/"
+	},
+	{
+		"bank_id": "hsbc",
+		"bank_name": "HSBC",
+		"exchange_url": "https://webgia.com/ty-gia/hsbc/"
+	},
+	{
+		"bank_id": "indovinabank",
+		"bank_name": "Indovina Bank",
+		"exchange_url": "https://webgia.com/ty-gia/indovinabank/"
+	},
+	{
+		"bank_id": "kienlongbank",
+		"bank_name": "Kiên Long Bank",
+		"exchange_url": "https://webgia.com/ty-gia/kienlongbank/"
+	},
+	{
+		"bank_id": "lienviet",
+		"bank_name": "Liên Việt",
+		"exchange_url": "https://webgia.com/ty-gia/lienvietpostbank/"
+	},
+	{
+		"bank_id": "maritimebank",
+		"bank_name": "Maritime Bank",
+		"exchange_url": "https://webgia.com/ty-gia/maritimebank/"
+	},
+	{
+		"bank_id": "mbbank",
+		"bank_name": "MBBank",
+		"exchange_url": "https://webgia.com/ty-gia/mbbank/"
+	},
+	{
+		"bank_id": "namabank",
+		"bank_name": "Nam Á Bank",
+		"exchange_url": "https://webgia.com/ty-gia/namabank/"
+	},
+	{
+		"bank_id": "ncb",
+		"bank_name": "NCB",
+		"exchange_url": "https://webgia.com/ty-gia/ncb/"
+	},
+	{
+		"bank_id": "ocb",
+		"bank_name": "OCB",
+		"exchange_url": "https://webgia.com/ty-gia/ocb/"
+	},
+	{
+		"bank_id": "oceanbank",
+		"bank_name": "OceanBank",
+		"exchange_url": "https://webgia.com/ty-gia/oceanbank/"
+	},
+	{
+		"bank_id": "pgbank",
+		"bank_name": "PG Bank",
+		"exchange_url": "https://webgia.com/ty-gia/pgbank/"
+	},
+	{
+		"bank_id": "publicbank",
+		"bank_name": "Public Bank",
+		"exchange_url": "https://webgia.com/ty-gia/publicbank/"
+	},
+	{
+		"bank_id": "pvcomBank",
+		"bank_name": "PVcomBank",
+		"exchange_url": "https://webgia.com/ty-gia/pvcombank/"
+	},
+	{
+		"bank_id": "sacombank",
+		"bank_name": "Sacombank",
+		"exchange_url": "https://webgia.com/ty-gia/sacombank/"
+	},
+	{
+		"bank_id": "saigonbank",
+		"bank_name": "SaigonBank",
+		"exchange_url": "https://webgia.com/ty-gia/saigonbank/"
+	},
+	{
+		"bank_id": "scb",
+		"bank_name": "SCB",
+		"exchange_url": "https://webgia.com/ty-gia/scb/"
+	},
+	{
+		"bank_id": "seabank",
+		"bank_name": "SeABank",
+		"exchange_url": "https://webgia.com/ty-gia/seabank/"
+	},
+	{
+		"bank_id": "shb",
+		"bank_name": "SHB",
+		"exchange_url": "https://webgia.com/ty-gia/shbbank/"
+	},
+	{
+		"bank_id": "techcombank",
+		"bank_name": "Techcombank",
+		"exchange_url": "https://webgia.com/ty-gia/techcombank/"
+	},
+	{
+		"bank_id": "tpbank",
+		"bank_name": "TPBank",
+		"exchange_url": "https://webgia.com/ty-gia/tpbank/"
+	},
+	{
+		"bank_id": "uob",
+		"bank_name": "UOB",
+		"exchange_url": "https://webgia.com/ty-gia/uob/"
+	},
+	{
+		"bank_id": "vib",
+		"bank_name": "VIB",
+		"exchange_url": "https://webgia.com/ty-gia/vib/"
+	},
+	{
+		"bank_id": "vietabank",
+		"bank_name": "VietABank",
+		"exchange_url": "https://webgia.com/ty-gia/vietabank/"
+	},
+	{
+		"bank_id": "vietbank",
+		"bank_name": "Việt Bank",
+		"exchange_url": "https://webgia.com/ty-gia/vietbank/"
+	},
+	{
+		"bank_id": "vietcapitalbank",
+		"bank_name": "Viet Capital Bank",
+		"exchange_url": "https://webgia.com/ty-gia/vietcapitalbank/"
+	},
+	{
+		"bank_id": "vietcombank",
+		"bank_name": "Vietcombank",
+		"exchange_url": "https://webgia.com/ty-gia/vietcombank/"
+	},
+	{
+		"bank_id": "vietinbank",
+		"bank_name": "VietinBank",
+		"exchange_url": "https://webgia.com/ty-gia/vietinbank/"
+	},
+	{
+		"bank_id": "vpbank",
+		"bank_name": "VPBank",
+		"exchange_url": "https://webgia.com/ty-gia/vpbank/"
+	},
+	{
+		"bank_id": "vrbank",
+		"bank_name": "VRBank",
+		"exchange_url": "https://webgia.com/ty-gia/vrbank/"
+	},
+]
